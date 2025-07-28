@@ -4,7 +4,13 @@ This is a FastAPI-based backend for predicting breast tumor malignancy using mac
 
 ## Live API
 
-> Coming soon (e.g. Render URL)
+Breast Cancer API: [https://breast-cancer-api-o8qt.onrender.com/](https://breast-cancer-api-o8qt.onrender.com/)
+
+POST /predict/logistic
+
+POST /predict/randomforest
+
+POST /predict/neuralnet
 
 ## Models Included
 
